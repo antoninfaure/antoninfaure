@@ -1,6 +1,6 @@
 # Antonin Faure
 ## 💫 About Me:
-I'm a Master Student in Data Science at EPFL, Lausanne. I like webapp and machine learning, and combine then for some data visualization.
+I'm a Master Student in Data Science at EPFL, Lausanne. I like webapps and machine learning, and combining them for some data visualization.
 
 
 ## 🌐 Socials:
