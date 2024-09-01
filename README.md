@@ -1,6 +1,5 @@
 # Antonin Faure
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoninfaure) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@antonin.faure) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=d16c06)](https://leetcode.com/Ant0n44/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/antoninfaure) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://telegram.me/antonin_faure)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoninfaure)
 I'm a Master Student in Data Science at EPFL, Lausanne. I like webapps :computer: and machine learning :chart_with_upwards_trend:, and combining them for some data visualization :bar_chart:.
 
 # 💻 Tech Stack:
